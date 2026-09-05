@@ -30,7 +30,7 @@ The dataset contains **4,000 records** across **28 features** capturing agricult
 
 ## 🛠️ Tech Stack & Libraries
 - **Language:** Python 3.10+
-- **Environment:** Google Colab / Jupyter Notebook[cite: 1, 2]
+- **Environment:** Google Colab
 - **Data Manipulation:** `pandas`, `numpy`
 - **Data Visualization:** `matplotlib`, `seaborn`
 
